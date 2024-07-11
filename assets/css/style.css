@@ -1,0 +1,29 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.parrafo {
+  text-align: start;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.container {
+  max-width: 960px;
+}
+.bg-image {
+  background-image: url(https://www.universidadviu.com/sites/universidadviu.com/files/images/computaci%C3%B3n-cognitiva.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+.rounded {
+  border-radius: 40px;
+}
